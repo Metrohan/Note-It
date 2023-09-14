@@ -24,7 +24,7 @@ class NotesGUI(QtWidgets.QMainWindow, NotesUI.Ui_MainWindow):
         self.show()
         self.setFixedSize(350, 350)
 
-        self.pushButton.setStyleSheet("background-color : yellow")
+        self.pushButton.setStyleSheet("background-color : crimson")
         self.pushButton.clicked.connect(self.saveNote)
         self.pushButton.clicked.connect(self.terminateProgram)
 
