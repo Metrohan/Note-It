@@ -1,6 +1,8 @@
 # **Note-It**
 
-**Note-It** is a simple, old-fashioned note-taking application built using Python, PyQt, and QtDesigner.
+**Note-It** is a lightweight and straightforward note-taking application designed to help you quickly jot down and save your thoughts. Built with Python and PyQt, this simple app allows users to create, save, open, and edit text-based notes. While it retains an old-fashioned, minimalistic feel, Note-It provides all the essential features you'd expect from a basic note-taking tool, making it ideal for those who prefer simplicity and ease of use.
+
+---
 
 ![Screenshot 2023-09-14 234558](https://github.com/Metrohan/Note-It/assets/54481595/b9f1edcc-3a61-4e6b-b5e9-8e2c159a2f54)  ![Screenshot 2023-09-14 234606](https://github.com/Metrohan/Note-It/assets/54481595/5a0ba1d7-8530-4639-9d68-cce11fedc5b1)
 
